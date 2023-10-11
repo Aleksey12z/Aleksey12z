@@ -74,7 +74,11 @@ I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ### :mechanic: My works.
 
 
+https://tetete.atlassian.net/wiki/spaces/~6388679f5fc160544e1c5918/pages/edit-v2/24248321?draftShareId=5e7b50e9-4dbe-450c-af4c-607f860563b4&inEditorTemplatesPanel=auto_closed
 
+log : brhrka@mail.ru
+
+pass : Unst00poblee1010
 
 
 
