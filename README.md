@@ -73,62 +73,8 @@ I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ### :mechanic: My works.
 
-Проект : Тест веб-приложения для учителей от Skyeng
 
-Что нужно было сделать:
 
- 1. Cделать тест-план
 
- 2.Подготовить тестовую документацию
-
- 3.Провести тестирование
-
- 4.Написать отчет о результатах тестирования
-
-  :monocle_face: Как решал: краткое описание решения
-  
-Создание личного события:
-
-Тест кейс : https://docs.google.com/spreadsheets/d/1du7hdxB1mvpvI0acEPVgqVvigMoueLpHFXy_jVRiL2c/edit?usp=sharing
-
-Чек лист : https://docs.google.com/document/d/1_y6ukKX1Dk6_IB-xerq5Q-xwmSK7R4SZKTNAPZnh9fk/edit?usp=sharing
-
- Редактирование личного события:
- 
-Тест кейс : https://docs.google.com/spreadsheets/d/1du7hdxB1mvpvI0acEPVgqVvigMoueLpHFXy_jVRiL2c/edit?usp=sharing
-
- Чек лист : https://docs.google.com/document/d/1_y6ukKX1Dk6_IB-xerq5Q-xwmSK7R4SZKTNAPZnh9fk/edit?usp=sharing
-
-Smoke тестирование: 
-
-https://docs.google.com/document/d/1_y6ukKX1Dk6_IB-xerq5Q-xwmSK7R4SZKTNAPZnh9fk/edit?usp=sharing
-
-Регрессионное тестирование:
-
-Чек лист : https://docs.google.com/spreadsheets/d/18659z5FAYY42k-Jp7gvDdZwZkfS0ADHF4ipT4wl1tb8/edit?usp=sharing
-
----
-
-Проект : Тест веб-приложения для учителей от Skyeng через API
-
-Что нужно было сделать:
-
-1.сделать тест-план
-
-2.подготовить тестовую документацию
-
-3.провести тестирование
-
-4.написать отчет о результатах тестирования
-
-:monocle_face: Как решал: краткое описание решения
-
-Создание личного события:
-
-Редактирование личного события:
-
-Удаление личного события: 
-
-https://docs.google.com/document/d/1_y6ukKX1Dk6_IB-xerq5Q-xwmSK7R4SZKTNAPZnh9fk/edit?usp=sharing
 
 
